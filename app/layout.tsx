@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yarui Photography",
+  title: "zhengyarui | Photography",
   description:
     "A quiet photography portfolio presenting selected works and artist information.",
 };
