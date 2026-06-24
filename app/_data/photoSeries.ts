@@ -16,7 +16,7 @@ export const photoSeries: Record<string, PhotoSeries> = {
     title: "Nature in Concrete",
     subtitle: "混凝土中的自然",
     folder: "nature-in-concrete",
-    totalImages: 5,  // 
+    totalImages: 6,  // 
   },
   "field-study-cathedrals": {
     title: "Field Study: Cathedrals",
